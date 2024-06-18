@@ -1,0 +1,1077 @@
+.exclusive-membership {
+  position: relative;
+  white-space: nowrap;
+}
+.premium {
+  border: 1px solid var(--color-teal);
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 49px;
+  color: var(--color-teal);
+}
+.color {
+  height: 65px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-darkturquoise);
+  display: none;
+  max-width: 100%;
+}
+.events,
+.gallery,
+.music,
+.profile,
+.shop,
+.videos {
+  text-decoration: none;
+  position: relative;
+  line-height: 14.6px;
+  color: inherit;
+  display: inline-block;
+  min-width: 43px;
+  cursor: pointer;
+  z-index: 1;
+}
+.events,
+.gallery,
+.music,
+.shop,
+.videos {
+  min-width: 39px;
+}
+.events,
+.gallery,
+.shop,
+.videos {
+  min-width: 47px;
+}
+.events,
+.shop {
+  min-width: 36px;
+}
+.events {
+  min-width: 45px;
+}
+.category-home,
+.premium-parent {
+  align-self: stretch;
+  max-width: 100%;
+}
+.premium-parent {
+  background-color: var(--color-darkturquoise);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 25.2px 491px;
+  box-sizing: border-box;
+  gap: 60px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.category-home {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.a9789-29cc-4061-b71d-cde9a13c5-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.events2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.event-highlights {
+  width: 1213px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.happy-bini-day,
+.june-11,
+.one-ayala-makati {
+  margin: 0;
+}
+.see-details2 {
+  text-decoration: underline;
+}
+.see-details1 {
+  color: inherit;
+}
+.blank-line,
+.burnham-green,
+.june-12,
+.musikalayaan,
+.see-details {
+  margin: 0;
+}
+.see-details5 {
+  text-decoration: underline;
+}
+.see-details4 {
+  color: inherit;
+}
+.ang-pinaka,
+.blank-line1,
+.blank-line2,
+.june-15,
+.sampaloc-cor-mayapis,
+.see-details3 {
+  margin: 0;
+}
+.see-details8 {
+  text-decoration: underline;
+}
+.see-details7 {
+  color: inherit;
+}
+.blank-line3,
+.june-22,
+.love-laban-2,
+.quezon-memorial-circle,
+.see-details6 {
+  margin: 0;
+}
+.see-details11 {
+  text-decoration: underline;
+}
+.see-details10 {
+  color: inherit;
+}
+.bini-run,
+.blank-line4,
+.june-23,
+.quirino-grandstand-city,
+.see-details9 {
+  margin: 0;
+}
+.see-details14 {
+  text-decoration: underline;
+}
+.see-details13 {
+  color: inherit;
+}
+.see-details12 {
+  margin: 0;
+}
+.june-11-happy-container {
+  width: 455px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 455px;
+  max-width: 100%;
+}
+.biniverse-the-first,
+.june-28-30,
+.new-frontier-theater {
+  margin: 0;
+}
+.see-details17 {
+  text-decoration: underline;
+}
+.see-details16 {
+  color: inherit;
+}
+.see-details15 {
+  margin: 0;
+}
+.blank-line7 {
+  text-decoration: underline;
+}
+.blank-line6 {
+  color: inherit;
+}
+.baguio-city-cap-john,
+.biniverse-the-first1,
+.blank-line5,
+.july-6 {
+  margin: 0;
+}
+.see-details20 {
+  text-decoration: underline;
+}
+.see-details19 {
+  color: inherit;
+}
+.biniverse-the-first2,
+.blank-line8,
+.cebu-city-waterfront,
+.july-14,
+.see-details18 {
+  margin: 0;
+}
+.see-details23 {
+  text-decoration: underline;
+}
+.see-details22 {
+  color: inherit;
+}
+.see-details21 {
+  margin: 0;
+}
+.blank-line11 {
+  text-decoration: underline;
+}
+.blank-line10 {
+  color: inherit;
+}
+.biniverse-the-first3,
+.blank-line9,
+.general-santos-city,
+.july-20 {
+  margin: 0;
+}
+.see-details26 {
+  text-decoration: underline;
+}
+.see-details25 {
+  color: inherit;
+}
+.see-details24 {
+  margin: 0;
+}
+.june-28-30-biniverse-container {
+  align-self: stretch;
+  position: relative;
+}
+.june-28-30-biniverse-the-firs-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-45xl) 0 0;
+  box-sizing: border-box;
+  min-width: 571px;
+}
+.events1,
+.june-28-30-biniverse-the-firs-wrapper,
+.media-banner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.media-banner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 152px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.events1 {
+  position: absolute;
+  top: 5759px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-84xl) 81px 247px 353px;
+  box-sizing: border-box;
+  gap: 26px;
+  z-index: 2;
+  text-align: left;
+  font-size: 63px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.shop2 {
+  margin: 0;
+  width: 182px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.shop-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+}
+.bini-run-is {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.frame-parent,
+.shop-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 887px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 33px;
+}
+.shop-inner {
+  width: 1494px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.be-an-exclusive,
+.blank-line12,
+.note-your-safety {
+  margin: 0;
+}
+.be-an-exclusive-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.bini-shops-icon {
+  align-self: stretch;
+  height: 439px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.be-an-exclusive1 {
+  position: relative;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.be-an-exclusive-member-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-45xl);
+}
+.bini-shops-parent,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.bini-shops-parent {
+  width: 787px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.be-an-exclusive-member-by-june-parent,
+.shop1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.be-an-exclusive-member-by-june-parent {
+  width: 1494px;
+  align-items: flex-start;
+  gap: 45px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+}
+.shop1 {
+  position: absolute;
+  top: 4607px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  padding: 0 var(--padding-xl) 98px;
+  box-sizing: border-box;
+  gap: var(--gap-51xl);
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.photos1 {
+  margin: 0;
+  width: 238px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.photos-wrapper {
+  width: 1566px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bini-desktop-wallpaper-0826f31-icon {
+  width: 1566px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.photos {
+  position: absolute;
+  top: 3455px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 61px var(--padding-xl) 92px;
+  box-sizing: border-box;
+  gap: 39px;
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.videos2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.videos-wrapper {
+  width: 1704px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-1-icon,
+.image-2-icon {
+  width: 739px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+}
+.image-1-icon {
+  width: 737px;
+}
+.image-2-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.more-videos {
+  position: relative;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.more-videos-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 23px;
+}
+.frame-group,
+.videos1 {
+  width: 1701px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 147px;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.videos1 {
+  position: absolute;
+  top: 2303px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  padding: 43px var(--padding-xl) 281px;
+  box-sizing: border-box;
+  gap: 127px;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.discography {
+  margin: 0;
+  height: 38px;
+  width: 486px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.discography-wrapper {
+  width: 1484px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.popular-bini-songs {
+  width: 323px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.blank-line13,
+.blank-line14,
+.blank-line15,
+.blank-line16,
+.born-to-win,
+.golden-arrow,
+.huwag-muna-tayong,
+.pantropiko,
+.salamin-salamin {
+  margin: 0;
+}
+.salamin-salamin-pantropiko-container {
+  align-self: stretch;
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  cursor: pointer;
+}
+.album-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  min-width: 183px;
+}
+.blank-line17,
+.blank-line18,
+.blank-line19,
+.blank-line20,
+.da-coconut-nut,
+.i-feel-good,
+.karera,
+.lagi,
+.na-na-na {
+  margin: 0;
+}
+.karera-lagi-na-container {
+  width: 262px;
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 262px;
+  cursor: pointer;
+}
+.album-container-parent {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-51xl);
+}
+.album-container-parent,
+.frame-wrapper1,
+.popular-bini-songs-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.popular-bini-songs-parent {
+  width: 614px;
+  flex-direction: column;
+  gap: 41px;
+  min-width: 614px;
+}
+.popular-bini-albums {
+  width: 336px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.blank-line21,
+.blank-line22,
+.blank-line23,
+.born-to-win1,
+.born-to-win2,
+.feel-good,
+.talaarawan {
+  margin: 0;
+}
+.talaarawan-feel-good-container {
+  height: 296px;
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  cursor: pointer;
+}
+.talaarawan-feel-good-born-to-w-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 26px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.song-container {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame-div,
+.song-container,
+.song-container-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.song-container-wrapper {
+  width: 575px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 575px;
+}
+.frame-div {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.show-all-songs {
+  height: 99px;
+  width: 360px;
+  position: relative;
+  text-decoration: underline;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  cursor: pointer;
+}
+.show-all-songs-by-bini-wrapper {
+  width: 626px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-container,
+.music1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  gap: 96px;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.music1 {
+  position: absolute;
+  top: 1157px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  padding: 90px 67px 243px 218px;
+  gap: 115px;
+  z-index: 3;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child,
+.music1,
+.profile-inner {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  opacity: 0.05;
+}
+.profile-inner {
+  width: 1010px;
+  height: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-13xl) 0 var(--padding-14xl);
+}
+.aiah-colet {
+  width: 1113px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.profile1 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 913px 412px;
+  box-sizing: border-box;
+  gap: 199px;
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.background,
+.events-banner {
+  align-self: stretch;
+  position: relative;
+}
+.events-banner {
+  height: 6968px;
+  max-width: 100%;
+}
+.background {
+  height: 218px;
+  background-color: #e2e2e2;
+  z-index: 2;
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.3px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1625px) {
+  .june-11-happy-container {
+    flex: 1;
+  }
+  .media-banner {
+    flex-wrap: wrap;
+  }
+  .image-1-icon,
+  .image-2-icon {
+    flex: 1;
+  }
+  .image-2-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .popular-bini-songs-parent,
+  .song-container-wrapper {
+    flex: 1;
+  }
+  .frame-div {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .events-banner {
+    height: auto;
+    min-height: 6968;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .premium-parent {
+    padding-left: var(--padding-226xl);
+    padding-right: var(--padding-226xl);
+    box-sizing: border-box;
+  }
+  .june-11-happy-container,
+  .june-28-30-biniverse-the-firs-wrapper {
+    min-width: 100%;
+  }
+  .media-banner {
+    gap: 76px;
+  }
+  .events1 {
+    padding-left: 176px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+  .frame-group {
+    gap: 73px;
+  }
+  .videos1 {
+    gap: 63px;
+  }
+  .popular-bini-songs-parent,
+  .song-container-wrapper {
+    min-width: 100%;
+  }
+  .music1,
+  .profile1 {
+    box-sizing: border-box;
+  }
+  .music1 {
+    gap: 57px;
+    padding-left: 109px;
+    padding-right: var(--padding-14xl);
+  }
+  .profile1 {
+    gap: 99px;
+    padding-left: 206px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .premium-parent {
+    gap: 30px;
+    padding-left: var(--padding-103xl);
+    padding-right: var(--padding-103xl);
+    box-sizing: border-box;
+  }
+  .events2 {
+    font-size: 50px;
+  }
+  .media-banner {
+    gap: 38px;
+  }
+  .events1 {
+    padding-left: 88px;
+    box-sizing: border-box;
+  }
+  .bini-run-is,
+  .shop2 {
+    font-size: var(--font-size-32xl);
+  }
+  .be-an-exclusive1 {
+    font-size: var(--font-size-7xl);
+  }
+  .be-an-exclusive-member-wrapper {
+    padding-left: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .be-an-exclusive-member-by-june-parent {
+    gap: 22px;
+  }
+  .shop1 {
+    gap: var(--gap-16xl);
+  }
+  .photos1 {
+    font-size: var(--font-size-32xl);
+  }
+  .photos {
+    gap: var(--gap-lgi);
+  }
+  .videos2 {
+    font-size: var(--font-size-32xl);
+  }
+  .more-videos {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-group {
+    gap: 37px;
+  }
+  .videos1 {
+    gap: 32px;
+  }
+  .discography {
+    font-size: var(--font-size-32xl);
+  }
+  .karera-lagi-na-container,
+  .popular-bini-songs,
+  .salamin-salamin-pantropiko-container {
+    font-size: var(--font-size-7xl);
+  }
+  .karera-lagi-na-container {
+    flex: 1;
+  }
+  .album-container-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-16xl);
+  }
+  .popular-bini-songs-parent {
+    gap: var(--gap-xl);
+  }
+  .popular-bini-albums,
+  .talaarawan-feel-good-container {
+    font-size: var(--font-size-7xl);
+  }
+  .song-container {
+    gap: var(--gap-xl);
+  }
+  .show-all-songs {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-container {
+    gap: var(--gap-29xl);
+  }
+  .music1 {
+    gap: 29px;
+    padding-left: 54px;
+    box-sizing: border-box;
+  }
+  .aiah-colet {
+    font-size: var(--font-size-7xl);
+  }
+  .profile1 {
+    gap: 50px;
+    padding-left: var(--padding-84xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .premium-parent {
+    gap: 15px;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .events2 {
+    font-size: var(--font-size-19xl);
+  }
+  .june-11-happy-container,
+  .june-28-30-biniverse-container {
+    font-size: var(--font-size-lgi);
+  }
+  .media-banner {
+    gap: var(--gap-lgi);
+  }
+  .bini-run-is,
+  .shop2 {
+    font-size: var(--font-size-19xl);
+  }
+  .frame-parent {
+    gap: var(--gap-base);
+  }
+  .be-an-exclusive-container,
+  .be-an-exclusive1 {
+    font-size: var(--font-size-lgi);
+  }
+  .bini-shops-parent {
+    gap: var(--gap-5xl);
+  }
+  .shop1 {
+    gap: var(--gap-mid);
+  }
+  .photos1,
+  .videos2 {
+    font-size: var(--font-size-19xl);
+  }
+  .more-videos {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-group {
+    gap: 18px;
+  }
+  .videos1 {
+    gap: var(--gap-base);
+  }
+  .discography {
+    font-size: var(--font-size-19xl);
+  }
+  .karera-lagi-na-container,
+  .popular-bini-songs,
+  .salamin-salamin-pantropiko-container {
+    font-size: var(--font-size-lgi);
+  }
+  .album-container-parent {
+    gap: var(--gap-mid);
+  }
+  .popular-bini-albums,
+  .show-all-songs,
+  .talaarawan-feel-good-container {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-container {
+    gap: var(--gap-5xl);
+  }
+  .aiah-colet {
+    font-size: var(--font-size-lgi);
+  }
+  .profile1 {
+    gap: 25px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
